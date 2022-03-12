@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167371213757",
+    "project_id": "archathon-team-23",
+    "storage_bucket": "archathon-team-23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167371213757:android:d2d3f901e29f8ff2f6e0d4",
+        "android_client_info": {
+          "package_name": "com.example.archathon_team32"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167371213757-uauma5kil2n3tbodmipauhkcv5uiirrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9--d7Qj1AlD8iXWcTbn-T8Stqm0C63U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167371213757-uauma5kil2n3tbodmipauhkcv5uiirrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
